@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 	"github.com/julienschmidt/httprouter"
-	"github.com/bealert-restapi/resources"
+	"github.com/sarweshsuman/bealert-restapi/resources"
 	"encoding/json"
 )
 

@@ -2,7 +2,7 @@ package main
 
 import (
 	"net/http"
-	"github.com/bealert-restapi/handlers"
+	"github.com/sarweshsuman/bealert-restapi/handlers"
 	"log"
 	"os"
 	"fmt"

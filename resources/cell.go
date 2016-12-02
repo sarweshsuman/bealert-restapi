@@ -1,7 +1,7 @@
 package resources
 
 import (
-	"github.com/bealert-restapi/redis"
+	"github.com/sarweshsuman/bealert-restapi/redis"
 	"github.com/robfig/config"
 	"github.com/sarwesh/utilities"	
 	"strconv"
