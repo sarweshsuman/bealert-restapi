@@ -3,7 +3,7 @@ package resources
 import (
 	"github.com/sarweshsuman/bealert-restapi/redis"
 	"github.com/robfig/config"
-	"github.com/sarwesh/utilities"
+	"github.com/sarweshsuman/utilities"
 	"errors"
 )
 
