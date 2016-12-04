@@ -4,7 +4,7 @@ import (
 	"log"
 	redis "gopkg.in/redis.v5"
 	"github.com/robfig/config"
-	"github.com/sarwesh/utilities"
+	"github.com/sarweshsuman/utilities"
 	"errors"
 	"strconv"
 )
